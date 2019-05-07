@@ -1,0 +1,3 @@
+node JS project
+- konsisten untuk belajar node JS
+- Mulai dari bulan Mei
